@@ -1,22 +1,4 @@
-# comunica-react-template
+# comunica-react-webcomponten [work in progress]
 
-Built with React, Webpack and Comunica. 
-template for integrating comunica queries in react making use of the data from Collections of Ghent. 
+Built with React, Webpack and Comunica. Webcomponent to integrate digital cultural heritage assets from the Collections of Ghent of Ghent project as HTML components.  
 
-## setup 
-
-1. Clone repository and move into directory.
-```
-cd communica-react-template
-```
-
-2. install
-```
-npm install
-```
-
-3. run react localy
-
-```
-npm start
-```
